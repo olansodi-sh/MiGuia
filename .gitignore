@@ -1,7 +1,8 @@
 # OSX
 #
 .DS_Store
-
+migrate_data.js
+read_excel.js
 # Xcode
 #
 build/
